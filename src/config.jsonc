@@ -1,6 +1,6 @@
 {
   // === GENERAL ===
-  "baseURL": "https://lgtw.tf/Microsoft-Rewards-Bot-Legacy",
+  "baseURL": "https://rewards.bing.com",
   "sessionPath": "sessions",
   "dryRun": false,
   // === EXECUTION ===
@@ -69,7 +69,7 @@
   // === RISK MANAGEMENT ===
   "riskManagement": {
     "enabled": true, // Enable risk management features
-    "stopOnCritical": true, // Stop on critical errors (bans, lockouts)
+    "stopOnCritical": false, // Stop on critical errors (bans, lockouts)
   },
   "retryPolicy": {
     "maxAttempts": 3, // Maximum retry attempts for failed operations
