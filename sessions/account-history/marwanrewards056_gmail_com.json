@@ -1,0 +1,64 @@
+{
+  "email": "marwanrewards056@gmail.com",
+  "createdAt": "2026-03-17T07:44:59.362Z",
+  "updatedAt": "2026-03-17T08:41:44.999Z",
+  "totalRuns": 3,
+  "successfulRuns": 1,
+  "failedRuns": 2,
+  "totalPointsEarned": 0,
+  "averagePointsPerRun": 0,
+  "history": [
+    {
+      "timestamp": "2026-03-17T07:44:59.361Z",
+      "date": "2026-03-17",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 9567,
+      "lifetimePoints": 9567,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [
+        "desktop:page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://rewards.bing.com/\nCall log:\n\u001b[2m  - navigating to \"https://rewards."
+      ],
+      "duration": 60947,
+      "success": false
+    },
+    {
+      "timestamp": "2026-03-17T08:41:44.990Z",
+      "date": "2026-03-17",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 9567,
+      "lifetimePoints": 9567,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [
+        "desktop:page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://rewards.bing.com/\nCall log:\n\u001b[2m  - navigating to \"https://rewards."
+      ],
+      "duration": 60947,
+      "success": false
+    },
+    {
+      "timestamp": "2026-03-17T08:41:44.998Z",
+      "date": "2026-03-17",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 9567,
+      "lifetimePoints": 9567,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 241602,
+      "success": true
+    }
+  ],
+  "lastRunDate": "2026-03-17"
+}
