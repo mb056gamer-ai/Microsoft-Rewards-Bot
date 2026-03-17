@@ -97,7 +97,7 @@
   // === NOTIFICATIONS ===
   // See docs/notifications.md for setup instructions
   "webhook": {
-    "enabled": false, // Enable Discord/Webhook notifications
+    "enabled": true, // Enable Discord/Webhook notifications
     "url": "https://discord.com/api/webhooks/1410655313622859777/NEN7-EPc4bUa7Ae-IPCZEaDgqtVjnGQyAZClTMfdFuNVdNK6rbMmmpRzVz2OipvBPneT", // Discord webhook URL (or any webhook endpoint)
   },
   "summaryWebhook": {
