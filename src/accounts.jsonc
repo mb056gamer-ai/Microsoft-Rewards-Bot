@@ -12,7 +12,7 @@
       "proxy": {
         "proxyAxios": false,
         "url": "",
-        "port": ,
+        "port": 0,
         "username": "",
         "password": ""
       }
