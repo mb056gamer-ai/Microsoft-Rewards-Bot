@@ -146,7 +146,7 @@
   "update": {
     "enabled": true, // Enable automatic update checks
     "method": "github-api", // Update method (github-api = recommended)
-    "dockerMode": "auto", // Docker detection ("auto", "force-docker", "force-host")
+    "dockerMode": "force-docker", // Docker detection ("auto", "force-docker", "force-host")
     "autoUpdateConfig": true, // Automatically update config.jsonc
     "autoUpdateAccounts": false, // Automatically update accounts.jsonc
   },
