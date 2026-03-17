@@ -19,7 +19,7 @@
   "workers": {
     "doDailySet": true, // Complete daily set activities
     "doMorePromotions": true, // Complete promotional activities
-    "doPunchCards": true, // Complete punch card challenges
+    "doPunchCards": false, // Complete punch card challenges
     "doDesktopSearch": true, // Perform desktop Bing searches
     "doMobileSearch": true, // Perform mobile Bing searches
     "doDailyCheckIn": true, // Perform mobile daily check-in
