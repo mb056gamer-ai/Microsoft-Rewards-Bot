@@ -8,7 +8,7 @@
     "parallel": false, // Run multiple accounts in parallel (advanced)
     "runOnZeroPoints": false, // Skip automation if no points available
     "clusters": 1, // Number of parallel workers (1 = sequential, 2+ = parallel)
-    "passesPerRun": 3, // Number of retry passes per execution
+    "passesPerRun": 2, // Number of retry passes per execution
   },
   "jobState": {
     "enabled": true, // Track completed activities to avoid duplicates
