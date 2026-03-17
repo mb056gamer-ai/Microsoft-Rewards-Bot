@@ -1,40 +1,81 @@
-[
+{
+  // See docs/accounts.md for detailed configuration guide
+  // Maximum 5 accounts recommended
+  "accounts": [
     {
-        "email": "email_1",
-        "password": "password_1",
-        "totpSecret": "",
-        "recoveryEmail": "",
-        "geoLocale": "auto",
-        "langCode": "en",
-        "proxy": {
-            "proxyAxios": false,
-            "url": "",
-            "port": 0,
-            "username": "",
-            "password": ""
-        },
-        "saveFingerprint": {
-            "mobile": false,
-            "desktop": false
-        }
+      "enabled": true,
+      "email": "zazafps200@gmail.com",
+      "password": "Mm01030033418***m",
+      "totp": "",
+      "recoveryEmail": "",
+      "phoneNumber": "",
+      "proxy": {
+        "proxyAxios": false,
+        "url": "",
+        "port": 0,
+        "username": "",
+        "password": ""
+      }
     },
     {
-        "email": "email_2",
-        "password": "password_2",
-        "totpSecret": "",
-        "recoveryEmail": "",
-        "geoLocale": "auto",
-        "langCode": "en",
-        "proxy": {
-            "proxyAxios": false,
-            "url": "",
-            "port": 0,
-            "username": "",
-            "password": ""
-        },
-        "saveFingerprint": {
-            "mobile": false,
-            "desktop": false
-        }
+      "enabled": false,
+      "email": "",
+      "password": "",
+      "totp": "",
+      "recoveryEmail": "",
+      "phoneNumber": "",
+      "proxy": {
+        "proxyAxios": false,
+        "url": "",
+        "port": 0,
+        "username": "",
+        "password": ""
+      }
+    },
+    {
+      "enabled": false,
+      "email": "",
+      "password": "",
+      "totp": "",
+      "recoveryEmail": "",
+      "phoneNumber": "",
+      "proxy": {
+        "proxyAxios": false,
+        "url": "",
+        "port": 0,
+        "username": "",
+        "password": ""
+      }
+    },
+    {
+      "enabled": false,
+      "email": "",
+      "password": "",
+      "totp": "",
+      "recoveryEmail": "",
+      "phoneNumber": "",
+      "proxy": {
+        "proxyAxios": false,
+        "url": "",
+        "port": 0,
+        "username": "",
+        "password": ""
+      }
+    },
+    {
+      "enabled": false,
+      "email": "",
+      "password": "",
+      "totp": "",
+      "recoveryEmail": "",
+      "phoneNumber": "",
+      "proxy": {
+        "proxyAxios": false,
+        "url": "",
+        "port": 0,
+        "username": "",
+        "password": ""
+      }
     }
-]
+  ]
+}
