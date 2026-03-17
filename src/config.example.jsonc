@@ -128,7 +128,7 @@
   "dashboard": {
     "enabled": true, // Auto-start web dashboard with the bot
     "port": 3000, // Dashboard port (default: 3000)
-    "host": "127.0.0.0", // Dashboard host (127.0.0.1 = localhost only)
+    "host": "0.0.0.0", // Dashboard host (127.0.0.1 = localhost only)
   },
   // === SCHEDULING ===
   // Automatic daily execution at specified time
