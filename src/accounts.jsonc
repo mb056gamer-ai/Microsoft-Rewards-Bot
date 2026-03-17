@@ -10,11 +10,11 @@
       "recoveryEmail": "",
       "phoneNumber": "",
       "proxy": {
-        "proxyAxios": true,
-        "url": "23.95.150.145",
-        "port": 6114,
-        "username": "qgoaekkf",
-        "password": "soewt68civrr"
+        "proxyAxios": false,
+        "url": "",
+        "port": ,
+        "username": "",
+        "password": ""
       }
     },
     {
