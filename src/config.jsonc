@@ -56,7 +56,7 @@
   // === HUMANIZATION ===
   "humanization": {
     "enabled": true, // CRITICAL: Enable human-like behavior (NEVER disable in production)
-    "stopOnBan": true, // Stop all automation if ban detected
+    "stopOnBan": false, // Stop all automation if ban detected
     "immediateBanAlert": true, // Send immediate alert on ban detection
     "actionDelay": {
       "min": 500, // Minimum delay between actions (ms)
