@@ -38,8 +38,8 @@
       "semanticDedup": true, // Remove semantically similar queries
       "semanticDedupThreshold": 0.65, // Similarity threshold (0-1, higher = more strict)
       "delay": {
-        "min": "2min", // Minimum delay between searches (string or number in ms)
-        "max": "4min", // Maximum delay between searches
+        "min": "30sec", // Minimum delay between searches (string or number in ms)
+        "max": "1min", // Maximum delay between searches
       },
     },
   },
@@ -62,8 +62,8 @@
       "min": 500, // Minimum delay between actions (ms)
       "max": 2200, // Maximum delay between actions (ms)
     },
-    "gestureMoveProb": 0.65, // Probability of random mouse movements (0-1)
-    "gestureScrollProb": 0.4, // Probability of random scrolling (0-1)
+    "gestureMoveProb": 0.8, // Probability of random mouse movements (0-1)
+    "gestureScrollProb": 0.6, // Probability of random scrolling (0-1)
     "allowedWindows": [], // Allowed time windows for execution (empty = always)
   },
   // === RISK MANAGEMENT ===
@@ -80,7 +80,7 @@
   },
   // === BROWSER ===
   "browser": {
-    "headless": false, // Run browser in headless mode (true = no GUI, false = GUI)
+    "headless": true, // Run browser in headless mode (true = no GUI, false = GUI)
     "globalTimeout": "30s", // Global timeout for browser operations
   },
   "fingerprinting": {
@@ -98,7 +98,7 @@
   // See docs/notifications.md for setup instructions
   "webhook": {
     "enabled": false, // Enable Discord/Webhook notifications
-    "url": "", // Discord webhook URL (or any webhook endpoint)
+    "url": "https://discord.com/api/webhooks/1410655313622859777/NEN7-EPc4bUa7Ae-IPCZEaDgqtVjnGQyAZClTMfdFuNVdNK6rbMmmpRzVz2OipvBPneT", // Discord webhook URL (or any webhook endpoint)
   },
   "summaryWebhook": {
     "enabled": false, // Enable summary webhook (sent at end of each run)
@@ -128,7 +128,7 @@
   "dashboard": {
     "enabled": true, // Auto-start web dashboard with the bot
     "port": 3000, // Dashboard port (default: 3000)
-    "host": "127.0.0.1", // Dashboard host (127.0.0.1 = localhost only)
+    "host": "127.0.0.0", // Dashboard host (127.0.0.1 = localhost only)
   },
   // === SCHEDULING ===
   // Automatic daily execution at specified time
@@ -139,7 +139,7 @@
     "jitter": {
       "enabled": true, // Apply random time offset to avoid exact-time runs
       "minMinutesBefore": 40, // Max minutes to start BEFORE scheduled time
-      "maxMinutesAfter": 20, // Max minutes to start AFTER scheduled time
+      "maxMinutesAfter": 25, // Max minutes to start AFTER scheduled time
     },
   },
   // === UPDATES ===
