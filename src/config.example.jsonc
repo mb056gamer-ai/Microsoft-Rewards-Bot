@@ -154,6 +154,6 @@
   // Help improve the project by automatically reporting errors
   // NO sensitive data is sent (emails, passwords, proxies are sanitized)
   "errorReporting": {
-    "enabled": true, // Enable anonymous error reporting to maintainers
+    "enabled": true, // Enable anonymous error reporting to maintainer
   },
 }
