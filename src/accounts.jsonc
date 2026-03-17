@@ -18,9 +18,9 @@
       }
     },
     {
-      "enabled": false,
-      "email": "",
-      "password": "",
+      "enabled": true,
+      "email": "remas010066633@gmail.com",
+      "password": "Mm01030033418***m",
       "totp": "",
       "recoveryEmail": "",
       "phoneNumber": "",
