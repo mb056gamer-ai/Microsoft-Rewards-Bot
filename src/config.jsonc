@@ -19,7 +19,7 @@
   "workers": {
     "doDailySet": true, // Complete daily set activities
     "doMorePromotions": true, // Complete promotional activities
-    "doPunchCards": false, // Complete punch card challenges
+    "doPunchCards": true, // Complete punch card challenges
     "doDesktopSearch": true, // Perform desktop Bing searches
     "doMobileSearch": true, // Perform mobile Bing searches
     "doDailyCheckIn": true, // Perform mobile daily check-in
@@ -146,7 +146,7 @@
   "update": {
     "enabled": true, // Enable automatic update checks
     "method": "github-api", // Update method (github-api = recommended)
-    "dockerMode": "force-docker", // Docker detection ("auto", "force-docker", "force-host")
+    "dockerMode": "auto", // Docker detection ("auto", "force-docker", "force-host")
     "autoUpdateConfig": true, // Automatically update config.jsonc
     "autoUpdateAccounts": false, // Automatically update accounts.jsonc
   },
