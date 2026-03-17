@@ -1,0 +1,222 @@
+[
+  {
+    "name": ".AspNetCore.OpenIdConnect.Nonce.CfDJ8AaE4OcUDFpHuMRIpeFpqbNnZSW4C9O9XmwzafWsum_RKaeuwKPfzvS955iC09TU5xHbG8v_2gVMo21w5PaiLd3s9ZbT7ROfMP1v5RQK1nDmh8f2mhRSLS0meawxGCD2bDyvXBUHZYnPEheTk5VUyrXoRxXrxHcPxLcgGjFRTSoYZh6VOy_VdyyBulYx-tWpanUDri9WMZuaTtlx-hndjy206j94RRASFbXAlo0VhDom2qiR0Q3pMERULRRwq8CjkFtT1KLrJBxZc8hKCewbVCk",
+    "value": "N",
+    "domain": "rewards.bing.com",
+    "path": "/signin-oidc",
+    "expires": 1773725712.327255,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_C_Auth",
+    "value": "",
+    "domain": "rewards.bing.com",
+    "path": "/cspreport",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_C_Auth",
+    "value": "",
+    "domain": "rewards.bing.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "MUID",
+    "value": "1D246F658C07600C17CA787A8D44618B",
+    "domain": ".bing.com",
+    "path": "/",
+    "expires": 1807420812.127911,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MUIDB",
+    "value": "1D246F658C07600C17CA787A8D44618B",
+    "domain": ".bing.com",
+    "path": "/",
+    "expires": 1807420812.127949,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_EDGE_S",
+    "value": "F=1",
+    "domain": ".bing.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_EDGE_V",
+    "value": "1",
+    "domain": ".bing.com",
+    "path": "/",
+    "expires": 1807420812.127973,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "GRNID",
+    "value": "9ab24211-fad7-4469-b53e-4aabeaadc723",
+    "domain": "rewards.bing.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "x-ms-gateway-slice",
+    "value": "estsfd",
+    "domain": "login.windows.net",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "stsservicecookie",
+    "value": "estsfd",
+    "domain": "login.windows.net",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "esctx-XxUXjOV7q30",
+    "value": "AQABCQEAAACvnsHKEvvRQb3Bz3Qc7wnaRXZvU3RzQXJ0aWZhY3RzDQAAAAAA_y1NOyKULghQXUC5WTGkEFyJXtYucshEbIKH9YEDLVkuM8l5CxwMsuD24Fv4etAO8V2AzFPVpfopJ9-rSq_weuG-Sx2SrGxR79UWTL118a8SnmD9JwbsXG5NyoNWwI00iS_LOaqZGmjJuYqTZ2CDVSAA",
+    "domain": ".login.microsoftonline.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "fpc",
+    "value": "AnX4FiuvOV5Ese1T7Mp7KAE",
+    "domain": "login.microsoftonline.com",
+    "path": "/",
+    "expires": 1776316813.006296,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "x-ms-gateway-slice",
+    "value": "estsfd",
+    "domain": "login.microsoftonline.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "stsservicecookie",
+    "value": "estsfd",
+    "domain": "login.microsoftonline.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MSPRequ",
+    "value": "id=N&lt=1773724813&co=1",
+    "domain": ".login.live.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "uaid",
+    "value": "dc7b1ab0d95b4dd4bc6a5e255d283c21",
+    "domain": ".login.live.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "OParams",
+    "value": "11O.DtwmohJLTKLOxkxcW3OzBL1*8PV6kC4AFub4k3gymdRaG8wmdofSFm7X37osyvQCKr5CD3aer3G9fzhqPbfJJ2G6QYy2xAPUY1x41ujutqp!Of*OYFwzmda*l7ZPMT7CxR8rVDIZO5AnnDX1dfR0hzb6p!fc!bDQGfZGrTEeKrRxtOPrbM!c5hB!9Nw9KuYOiuH29zJZ0tWXVg14ZtMxL1!EoeRP3sRaQeCOJAFcDF5zNzvbHUoqJkK6v*aj3NmamjGbJ3C9Puv!4fNhL*4kYTD1HwnOnMU7hlJprcgXMQz9c1!lZw4Cjl5fVO45p44Hiyn3vY5NvnuYbhJsJpSeDRij4yz64NbSq*ToGzzDBMxZaWtYdVrrAyYUQPEHCUXa3sLSzXGoj3tvZ8hXw1v43SfkyEMZesQiS58fht16pk2ZIcN9tS6i9u02MUfBPctMkilytFagKlrCrB42bZahb27UcH6FmkumgJGH8gF0PgQqb6heMEuyiyp2nFsWoV0Sj5T7gvTMNfAIEuIX0D3aNR*Hz4ujU4rmT0TSe4lPUFf2c6C6op5!2X20TUgxpgbxWxxUQI0sHnEp0gcX31cHzFPmzlDwrLOA1P3iFPA1tEg7rXJw5RBJ3qoJpu5STQI0SZbDsdOo4Am9HROzbDfVuLjeYMgWjWH8WyR6EryEGdDAft!4ejP!8duGdD7h3m1p2fI!ujTeRPXgCYrkfSFlKz21SwWLwdCn81ArH*ZnEYgq1qbambxO!Ng6QlG9D3AoZ*Gkn*O3g5bi0HATRBwS5NkwudxpW8H9rf5A7XHOgqlC3JpGKJ943rwWtfGDLC50BVZEedY*RVQqJG0Tk7jKk3mO7FFKoI76dE5idwT67rvgelPX7sBoxQduEQuybVOa4mD95uDwf1q2cY1BZHR95MG*fH4Yz9pECG2YaAjI*3Ql!hDFCbUlDkGq*PuN9MmcrcbwHQwMF!w!esK!v*Otj2Il5eM8dDTi8tQAC1DnTKSahgja42rXiyDqta73DBcGtKDgiLYX!edL2f5xWIkZwEiOW9YMcclCjOdBZLsdYfuqAKjUD97B!PaoC0LwfgYCtv8RqIIfWH2mk3TTxWX!DLW4HD21mQFYQPX*VtXsV2sydkFbGHqEyEDfh7XftoKcIQITgpArb9mNQOZxOG!2x0maetuHXRhdhUe23yconEqpj1O*xY3U*HJCr3terV0YifF69n6JZBuAxClsU*rIfPtZBG7ZKIv1C50QBstUVvXeX1BfC3l9PZlIUOjnU7LkdSaHU64DPwRzFtQubETfinLqdjrGSAIjFe4Sj2mOYDKFbBHVq6dzCR6AtRxpRbOHLyYetWbG32XNCBLJe85PBMmpWqQm2MojT*UBNWOtYmpVbfzvSYph5e4MuSBxOXdRs*N9MOw40IAiwzobsvDvcDavnNuAzyurOBLKo9iWaY*7SkDElAH8oJODx*sC2r0hxsR2f6WDBZ8Kcdt6r7LbG!dgqm9jZkNYk0Q69EsIyugmICyQDgecHcUFi2*lYYsJvHiFnGk1Ng3zyLR65ra2NU5!A3P7IeVLsePLM9sibn5gxTgb42UIpx13JrQhVXzm3WhNh!I49xiOkhnX8dlCPz3W5caKujjr3xo!c20YIGNf",
+    "domain": ".login.live.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MSPBack",
+    "value": "0",
+    "domain": ".login.live.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "MicrosoftApplicationsTelemetryDeviceId",
+    "value": "54acb268-9094-4bdf-a5b3-6e1d6b1106ef",
+    "domain": "rewards.bing.com",
+    "path": "/",
+    "expires": 1805260815,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "MicrosoftApplicationsTelemetryFirstLaunchTime",
+    "value": "2026-03-17T05:20:15.355Z",
+    "domain": "rewards.bing.com",
+    "path": "/",
+    "expires": 1805260815,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "MSCC",
+    "value": "NR",
+    "domain": ".bing.com",
+    "path": "/",
+    "expires": 1773811216,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "webisession",
+    "value": "%7B%22impressionId%22%3A%22f7d9c7cc-0c29-43ef-9115-570c55602c2f%22%2C%22sessionid%22%3A%22d542b2e3-df05-4d9e-a9e7-6d8002a65a2a%22%2C%22sessionNumber%22%3A2%7D",
+    "domain": "rewards.bing.com",
+    "path": "/",
+    "expires": 1773726616,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

@@ -1,0 +1,521 @@
+{
+  "email": "mb056gamer@gmail.com",
+  "createdAt": "2026-02-13T23:42:53.066Z",
+  "updatedAt": "2026-03-08T14:52:19.286Z",
+  "totalRuns": 30,
+  "successfulRuns": 29,
+  "failedRuns": 1,
+  "totalPointsEarned": 2752,
+  "averagePointsPerRun": 91.73333333333333,
+  "history": [
+    {
+      "timestamp": "2026-02-13T23:42:53.066Z",
+      "date": "2026-02-13",
+      "desktopPoints": 120,
+      "mobilePoints": 100,
+      "totalPoints": 220,
+      "availablePoints": 6475,
+      "lifetimePoints": 6475,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 5748192,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-14T16:44:05.817Z",
+      "date": "2026-02-14",
+      "desktopPoints": 10,
+      "mobilePoints": 0,
+      "totalPoints": 10,
+      "availablePoints": 6710,
+      "lifetimePoints": 6710,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 272367,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-14T16:59:34.925Z",
+      "date": "2026-02-14",
+      "desktopPoints": 10,
+      "mobilePoints": 0,
+      "totalPoints": 10,
+      "availablePoints": 6710,
+      "lifetimePoints": 6710,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 272367,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-14T16:59:34.928Z",
+      "date": "2026-02-14",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 6710,
+      "lifetimePoints": 6710,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 227184,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-14T17:35:27.956Z",
+      "date": "2026-02-14",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 6710,
+      "lifetimePoints": 6710,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 227132,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-14T17:50:55.372Z",
+      "date": "2026-02-14",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 6710,
+      "lifetimePoints": 6710,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 227132,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-14T17:50:55.374Z",
+      "date": "2026-02-14",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 6710,
+      "lifetimePoints": 6710,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 135359,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-15T15:36:58.908Z",
+      "date": "2026-02-15",
+      "desktopPoints": 5,
+      "mobilePoints": 0,
+      "totalPoints": 5,
+      "availablePoints": 6940,
+      "lifetimePoints": 6940,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 262201,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-15T15:56:10.117Z",
+      "date": "2026-02-15",
+      "desktopPoints": 5,
+      "mobilePoints": 0,
+      "totalPoints": 5,
+      "availablePoints": 6940,
+      "lifetimePoints": 6940,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 262201,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-15T15:56:10.121Z",
+      "date": "2026-02-15",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 6940,
+      "lifetimePoints": 6940,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [
+        "desktop:Unable to parse dashboard script - inspect recent logs and page markup"
+      ],
+      "duration": 233606,
+      "success": false
+    },
+    {
+      "timestamp": "2026-02-16T04:18:21.592Z",
+      "date": "2026-02-16",
+      "desktopPoints": 211,
+      "mobilePoints": 110,
+      "totalPoints": 321,
+      "availablePoints": 7261,
+      "lifetimePoints": 7261,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 4097730,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-16T04:34:18.607Z",
+      "date": "2026-02-16",
+      "desktopPoints": 211,
+      "mobilePoints": 110,
+      "totalPoints": 321,
+      "availablePoints": 7261,
+      "lifetimePoints": 7261,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 4097730,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-16T04:34:18.612Z",
+      "date": "2026-02-16",
+      "desktopPoints": 5,
+      "mobilePoints": 0,
+      "totalPoints": 5,
+      "availablePoints": 7266,
+      "lifetimePoints": 7266,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 182203,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-17T21:22:43.325Z",
+      "date": "2026-02-17",
+      "desktopPoints": 110,
+      "mobilePoints": 95,
+      "totalPoints": 205,
+      "availablePoints": 7471,
+      "lifetimePoints": 7471,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 12791277,
+      "success": true
+    },
+    {
+      "timestamp": "2026-02-21T23:46:07.809Z",
+      "date": "2026-02-21",
+      "desktopPoints": 55,
+      "mobilePoints": 0,
+      "totalPoints": 55,
+      "availablePoints": 7845,
+      "lifetimePoints": 7845,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [
+        "URLREWARD"
+      ],
+      "errors": [],
+      "duration": 2978784,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-04T19:52:01.562Z",
+      "date": "2026-03-04",
+      "desktopPoints": 90,
+      "mobilePoints": 95,
+      "totalPoints": 185,
+      "availablePoints": 8351,
+      "lifetimePoints": 8351,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [
+        "URLREWARD"
+      ],
+      "errors": [],
+      "duration": 4249109,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-04T20:56:23.855Z",
+      "date": "2026-03-04",
+      "desktopPoints": 90,
+      "mobilePoints": 95,
+      "totalPoints": 185,
+      "availablePoints": 8351,
+      "lifetimePoints": 8351,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [
+        "URLREWARD"
+      ],
+      "errors": [],
+      "duration": 4249109,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-04T20:56:23.862Z",
+      "date": "2026-03-04",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 8351,
+      "lifetimePoints": 8351,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [
+        "URLREWARD"
+      ],
+      "errors": [],
+      "duration": 391399,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-05T10:38:04.471Z",
+      "date": "2026-03-05",
+      "desktopPoints": 90,
+      "mobilePoints": 95,
+      "totalPoints": 185,
+      "availablePoints": 8536,
+      "lifetimePoints": 8536,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [
+        "URLREWARD"
+      ],
+      "errors": [],
+      "duration": 5063801,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-05T11:43:27.495Z",
+      "date": "2026-03-05",
+      "desktopPoints": 90,
+      "mobilePoints": 95,
+      "totalPoints": 185,
+      "availablePoints": 8536,
+      "lifetimePoints": 8536,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [
+        "URLREWARD"
+      ],
+      "errors": [],
+      "duration": 5063801,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-05T11:43:27.507Z",
+      "date": "2026-03-05",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 8536,
+      "lifetimePoints": 8536,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [
+        "URLREWARD"
+      ],
+      "errors": [],
+      "duration": 422479,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-07T02:58:39.735Z",
+      "date": "2026-03-07",
+      "desktopPoints": 90,
+      "mobilePoints": 115,
+      "totalPoints": 205,
+      "availablePoints": 8741,
+      "lifetimePoints": 8741,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [
+        "URLREWARD"
+      ],
+      "errors": [],
+      "duration": 4465073,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-07T04:15:31.402Z",
+      "date": "2026-03-07",
+      "desktopPoints": 90,
+      "mobilePoints": 115,
+      "totalPoints": 205,
+      "availablePoints": 8741,
+      "lifetimePoints": 8741,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 4465073,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-07T04:15:31.407Z",
+      "date": "2026-03-07",
+      "desktopPoints": 40,
+      "mobilePoints": 0,
+      "totalPoints": 40,
+      "availablePoints": 8781,
+      "lifetimePoints": 8781,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 321491,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-07T04:23:53.654Z",
+      "date": "2026-03-07",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 8781,
+      "lifetimePoints": 8781,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 46457,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-07T04:35:03.725Z",
+      "date": "2026-03-07",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 8781,
+      "lifetimePoints": 8781,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 46457,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-07T04:35:03.733Z",
+      "date": "2026-03-07",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 8781,
+      "lifetimePoints": 8781,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 43934,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-08T14:30:02.482Z",
+      "date": "2026-03-08",
+      "desktopPoints": 105,
+      "mobilePoints": 95,
+      "totalPoints": 200,
+      "availablePoints": 8981,
+      "lifetimePoints": 8981,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 33016637,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-08T14:52:19.277Z",
+      "date": "2026-03-08",
+      "desktopPoints": 105,
+      "mobilePoints": 95,
+      "totalPoints": 200,
+      "availablePoints": 8981,
+      "lifetimePoints": 8981,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 33016637,
+      "success": true
+    },
+    {
+      "timestamp": "2026-03-08T14:52:19.285Z",
+      "date": "2026-03-08",
+      "desktopPoints": 5,
+      "mobilePoints": 0,
+      "totalPoints": 5,
+      "availablePoints": 8986,
+      "lifetimePoints": 8986,
+      "dailyGoalProgress": 0,
+      "completedActivities": [
+        "URLREWARD"
+      ],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 271125,
+      "success": true
+    }
+  ],
+  "lastRunDate": "2026-03-08"
+}
