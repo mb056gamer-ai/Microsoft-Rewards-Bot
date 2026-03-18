@@ -1,0 +1,28 @@
+{
+  "email": "zazafps200@gmail.com",
+  "createdAt": "2026-03-18T21:24:04.254Z",
+  "updatedAt": "2026-03-18T21:24:04.257Z",
+  "totalRuns": 1,
+  "successfulRuns": 1,
+  "failedRuns": 0,
+  "totalPointsEarned": 0,
+  "averagePointsPerRun": 0,
+  "history": [
+    {
+      "timestamp": "2026-03-18T21:24:04.252Z",
+      "date": "2026-03-18",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 1210,
+      "lifetimePoints": 1210,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 130835,
+      "success": true
+    }
+  ],
+  "lastRunDate": "2026-03-18"
+}

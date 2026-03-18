@@ -1,0 +1,28 @@
+{
+  "email": "remas010066633@gmail.com",
+  "createdAt": "2026-03-18T21:24:04.258Z",
+  "updatedAt": "2026-03-18T21:24:04.258Z",
+  "totalRuns": 1,
+  "successfulRuns": 1,
+  "failedRuns": 0,
+  "totalPointsEarned": 0,
+  "averagePointsPerRun": 0,
+  "history": [
+    {
+      "timestamp": "2026-03-18T21:24:04.257Z",
+      "date": "2026-03-18",
+      "desktopPoints": 0,
+      "mobilePoints": 0,
+      "totalPoints": 0,
+      "availablePoints": 890,
+      "lifetimePoints": 890,
+      "dailyGoalProgress": 0,
+      "completedActivities": [],
+      "failedActivities": [],
+      "errors": [],
+      "duration": 183511,
+      "success": true
+    }
+  ],
+  "lastRunDate": "2026-03-18"
+}
