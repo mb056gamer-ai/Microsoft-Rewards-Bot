@@ -6,7 +6,7 @@
   // === EXECUTION ===
   "execution": {
     "parallel": false, // Run multiple accounts in parallel (advanced)
-    "runOnZeroPoints": false, // Skip automation if no points available
+    "runOnZeroPoints": true, // Skip automation if no points available
     "clusters": 1, // Number of parallel workers (1 = sequential, 2+ = parallel)
     "passesPerRun": 2, // Number of retry passes per execution
   },
@@ -24,7 +24,7 @@
     "doMobileSearch": true, // Perform mobile Bing searches
     "doDailyCheckIn": true, // Perform mobile daily check-in
     "doReadToEarn": true, // Complete Read to Earn activities
-    "doFreeRewards": false, // Claim free rewards (experimental)
+    "doFreeRewards": true, // Claim free rewards (experimental)
     "bundleDailySetWithSearch": true, // Bundle daily set with search tasks
   },
   // === SEARCH ===
