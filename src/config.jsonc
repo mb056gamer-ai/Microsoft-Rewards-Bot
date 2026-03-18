@@ -80,7 +80,7 @@
   },
   // === BROWSER ===
   "browser": {
-    "headless": true, // Run browser in headless mode (true = no GUI, false = GUI)
+    "headless": false, // Run browser in headless mode (true = no GUI, false = GUI)
     "globalTimeout": "60s", // Global timeout for browser operations
   },
   "fingerprinting": {
